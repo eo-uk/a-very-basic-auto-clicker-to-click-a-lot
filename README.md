@@ -8,3 +8,5 @@ The default keyboard shortcut for starting/stopping auto clicking is "a, s, d". 
 AutoClicker(shortcut=['c', 's', 't', 'm']).run()
 ```
 The above code starts the auto clicker with a shortcut of c + s + t + m.
+
+The "delay" keyword argument specifies the delay between each click with a default value of 1 millisecond.
