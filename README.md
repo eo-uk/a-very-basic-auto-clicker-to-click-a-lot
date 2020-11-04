@@ -9,8 +9,9 @@ AutoClicker(shortcut=['c', 's', 't', 'm']).run()
 ```
 The above code starts the auto clicker with a shortcut of c + s + t + m.
 
-> **NOTE:** The order of keys matters.
+**NOTE:** The order of keys matters.
 
 The "delay" keyword argument specifies the delay between each click with a default value of 1 millisecond.  
   
 If anything goes wrong while auto clicking, move your mouse to the corner of your screen. This will terminate the program.
+
