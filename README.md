@@ -15,3 +15,6 @@ The "delay" keyword argument specifies the delay between each click with a defau
   
 If anything goes wrong while auto clicking, move your mouse to the corner of your screen. This will terminate the program.
 
+## Dependencies
+* pynput  
+* pyautogui
