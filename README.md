@@ -12,6 +12,11 @@ The above code starts the auto clicker with a shortcut of c + s + t + m.
 **NOTE:** The order of keys matters.
 
 The "delay" keyword argument specifies the delay between each click with a default value of 1 millisecond.  
+
+```python
+AutoClicker(delay=5).run()
+```
+The above code starts an auto clicker that clicks every 5 seconds.
   
 If anything goes wrong while auto clicking, move your mouse to the corner of your screen. This will terminate the program.
 
